@@ -1,4 +1,4 @@
 data/
 pytorch-deep-learning/
 __pycache__
-.venv/
+.venv/models/*.pth
